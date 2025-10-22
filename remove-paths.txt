@@ -1,0 +1,5 @@
+mirrorfiles/slope/Build/slope_data.unityweb
+mirrorfiles/slope/Build/slope_wasmcode.unityweb
+mirrorfiles/slope/Build/slope_memory.unityweb
+mirrorfiles/slope/Build/slope_wasmframework.unityweb
+mirrorfiles/slope/Build/slope_framework.unityweb
