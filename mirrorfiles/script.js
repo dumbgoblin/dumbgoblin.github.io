@@ -1,4 +1,3 @@
-// loopFolders.js
 import fs from "fs";
 import path from "path";
 const baseDir = "./"; 
